@@ -1,6 +1,7 @@
 h1{
+  font-size: 60px;
   color: #df7020;
-  text-shadow: 2px 2px #703810;
+  text-shadow: 2px 2px #000;
   text-align: center;
 }
 
@@ -19,6 +20,7 @@ p{
 }
 
 img{
+  border-radius: 250px;
   display: block;
   margin: auto;
 }
