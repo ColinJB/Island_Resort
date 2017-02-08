@@ -1,10 +1,13 @@
 h1{
+  color: #df7020;
+  text-shadow: 2px 2px #703810;
   text-align: center;
 }
 
-h1, h2, p{
+h2, p{
   color: white;
   text-shadow: 2px 2px #000;
+  text-align: center;
 }
 
 body{
@@ -13,4 +16,14 @@ body{
 
 p{
   font-size: 20px;
+}
+
+img{
+  display: block;
+  margin: auto;
+}
+
+nav{
+  font-weight: bolder;;
+  text-shadow: 1px 1px #df7020;
 }
